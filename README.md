@@ -1,6 +1,6 @@
 # Hi 👋, I'm James
 
-Software enginer, full stack web dev, app dev
+Software engineer, full stack web dev, app dev
 
 ## Projects
 
