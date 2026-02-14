@@ -1,0 +1,12 @@
+# Sign in with Google
+||accounts.google.com/gsi/client$script,third-party
+||accounts.google.com/gsi/iframe*
+
+# YouTube
+youtube.com##ytd-rich-section-renderer:has(*[is-shorts])
+youtube.com##ytd-rich-section-renderer:has(span#title:has-text(/Most relevant/i))
+youtube.com##ytd-shelf-renderer:has(span#title:has-text(/People also watched/i))
+youtube.com##ytd-shelf-renderer:has(span#title:has-text(/Explore more/i))
+youtube.com##yt-lockup-view-model:has-text(/Members only/i)
+youtube.com##ytd-item-section-renderer:has(div#title:has-text(/Recommended videos/i))
+youtube.com##ytd-shelf-renderer:has(span#title:has-text(/Recommended playlists/i))
