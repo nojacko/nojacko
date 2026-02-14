@@ -12,7 +12,7 @@ All upcoming races, sprints, qualifying and practice sessions for Formula 1, For
 
 Quickly see the live, upcoming and average electricity prices for Octopus Energy's Agile Octopus tariff.
 
-**🔥 [datafury.io](https://data.fury.io)**
+**🔥 [datafury.io](https://datafury.io)**
 
 The landing page for my projects.
 
