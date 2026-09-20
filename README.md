@@ -1,5 +1,7 @@
 # Projects
 
+**🔥 [datafury.io](https://datafury.io)** The landing page and portfolio for all projects.
+
 **✈️ [Travel Focused](https://travelfocused.com)** An app to access weather forecasts, convert currencies, save favourite locations, and enjoy essential travel information offline. Download on the [App Store](https://apps.apple.com/us/app/travel-focused/id6756546003) and [Google Play](https://play.google.com/store/apps/details?id=com.travelfocused.app).
 
 **🏎️ [Race Calendar](https://racecalendar.io)** All upcoming races, sprints, qualifying and practice sessions for [Formula 1 Calendar](https://racecalendar.io/f1), [Formula 2 Calendar](https://racecalendar.io/f2), [Formula 3 Calendar](https://racecalendar.io/f3), [Formula E Calendar](https://racecalendar.io/formula-e) and [F1 Academy Calendar](https://racecalendar.io/f1-academy).
@@ -13,8 +15,6 @@
 **🌐 [Geo Data](https://geo.datafury.io)** Search and explore geographical data from the global GeoNames database.
 
 **🌐 [node-country-to-iso](https://github.com/nojacko/node-country-to-iso)** A Node.js utility to convert country names to standard ISO codes.
-
-**🔥 [datafury.io](https://datafury.io)** The landing page and studio portfolio for all projects.
 
 ## Support
 
